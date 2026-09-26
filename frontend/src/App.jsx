@@ -50,7 +50,6 @@ export default function App() {
   return (
     <div>
       <header className="app-header">
-        <p className="eyebrow">SMART INDIA HACKATHON 2026 · PROTOTYPE</p>
         <h1>CarePath — The "Golden Hour" Trauma & Stroke Router</h1>
         <p><span className="live-dot" /> Live hospital status feed simulator running</p>
       </header>
