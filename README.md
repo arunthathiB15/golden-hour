@@ -1,7 +1,5 @@
 # CarePath — The "Golden Hour" Trauma & Stroke Router
 
-**Smart India Hackathon 2026 — Healthcare & MedTech**
-
 CarePath is a non-diagnostic, live-resource routing platform for stroke and trauma
 emergencies. Instead of sending a patient to the *nearest* hospital, it routes them
 to the hospital that can *actually treat them fastest* — factoring in live equipment
